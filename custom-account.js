@@ -7,8 +7,8 @@
  */
 
 function accountValidation_r_gitfunction(){
-alert("here only");
-
+//alert("here only");
+console.log("test");
 }
 
 
